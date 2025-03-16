@@ -83,4 +83,4 @@ A: 请确保：
 
 ## 许可证
 
-本软件遵循 MIT 许可证发布。
+本软件遵循 MIT 许可证发布。![123](https://github.com/user-attachments/assets/b94ef6fb-ac15-4a2a-aa15-10abb4a42c9f)
