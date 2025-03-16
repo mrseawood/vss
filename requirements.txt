@@ -1,0 +1,3 @@
+# 视频场景分割工具所需依赖
+scenedetect>=0.6.0
+# tkinter通常随Python安装，无需单独安装
